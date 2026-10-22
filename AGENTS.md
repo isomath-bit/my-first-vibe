@@ -7,9 +7,11 @@
 - **보안 및 아키텍처**: 학생 성적 데이터의 외부 유출 방지를 위한 100% 클라이언트 사이드 브라우저 메모리 로컬 처리 (서버/DB 전송 없음)
 
 ## 프로젝트 식별자
-- **GitHub Repository**: `isomath-bit/my-first-vibe` (https://github.com/isomath-bit/my-first-vibe)
+- **GitHub Repository**: `https://github.com/isomath-bit/my-first-vibe`
 - **Vercel Project**: `my-first-vibe`
-- **Vercel Org/User**: `isomath-bit`
+- **Vercel Project ID**: `prj_dDtxLUMI7p2HHvig54f7nHFA8Omc`
+- **Vercel Org ID**: `team_WUMwXXGkyUyfNO2w0akQqMuW`
+- **Vercel Scope/Team**: `isomath-bit`
 - **Supabase Ref**: 없음 (개인정보 보호 원칙 및 요구사항에 따라 데이터베이스 미사용)
 
 ## 검증 기준
