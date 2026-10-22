@@ -1,0 +1,15 @@
+{
+  "app": {
+    "name": "고등학교 나이스 수행평가 성적 점검 시스템",
+    "url": "https://my-first-vibe-beta.vercel.app",
+    "stack": "정적 HTML"
+  },
+  "tracks": [
+    "security"
+  ],
+  "edzipCase": null,
+  "teacher": {
+    "dormsHandle": ""
+  },
+  "ownershipConfirmed": true
+}
