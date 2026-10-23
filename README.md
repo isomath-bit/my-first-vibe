@@ -24,4 +24,4 @@
 - 순수 HTML5 / CSS3 / JavaScript (Client-side)
 - SheetJS (`xlsx.full.min.js`) 내장
 - Vercel 프로덕션 정적 웹 호스팅
-https://my-first-vibe-beta.vercel.app/
+- https://my-first-vibe-beta.vercel.app/
