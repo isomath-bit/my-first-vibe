@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "고교학점제 성취도 분석 및 등급 판정 시스템",
+    "name": "고교학점제 교과 성취도(미도달) 및 성적 분석 프로그램",
     "url": "https://my-first-vibe-beta.vercel.app",
     "stack": "정적 HTML"
   },
