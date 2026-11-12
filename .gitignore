@@ -4,3 +4,4 @@
 *.log
 *.tmp
 .dorms-check/
+patch-hostname.cjs
